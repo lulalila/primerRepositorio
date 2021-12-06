@@ -1,0 +1,45 @@
+
+        body {        
+         background-color: rgb(238, 246, 248);
+        }
+
+        h1 {         
+          font-family: 'outfit', sans-serif;
+          font-size: 160px;
+          color: #1a5c53;
+          text-align: left;  
+          margin-top: 90px;  
+          margin-left: 35px;      
+        } 
+        
+        h3 {
+          font-family: 'Nunito', sans-serif;
+          font-size: 40px;
+          color: #1a5c53;
+          text-align: left;
+          margin-top: 10px;  
+          margin-left: 55px;        
+        }
+
+        a {
+          font-family: 'Nunito', sans-serif;
+          font-size: 30px;
+          color: rgba(26, 92, 83, 1);                     
+        }        
+
+        .navbar {
+          background-color: rgba(79, 200, 216, 0.3);   
+          justify-content: right;            
+        }
+        
+        p {
+          font-family: 'Nunito', sans-serif;
+          font-size: 1opx;
+        } 
+
+        h4 {   
+          font-family: 'Nunito', sans-serif; 
+          color: #1a5c53;       
+          margin: auto;                
+        }
+        
