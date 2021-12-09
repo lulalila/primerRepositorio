@@ -58,23 +58,22 @@
           font-size: 30px;
           color: rgba(26, 92, 83, 1);                     
         } 
+        
+        .navbar-toggler-icon {
+          color: #1a5c53;      
+        }
 
         .navbar {
           background-color: rgba(79, 200, 216, 0.3);   
         }     
         
         .nav-link {
-          width: 100%;
-          text-align: right;  
+          width: 100%;         
         }
         
         .navbar-brand {
           align-items: left;
-        }      
-
-        .navbar-toggler {
-          color: #1a5c53;
-        }
+        }            
         
         .fa {                
           font-size: 10px;
